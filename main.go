@@ -8,7 +8,7 @@ import (
 func main() {
   ctr := 1 
   for {
-    fmt.Println(ctr, "Hello world 2")
+    fmt.Println(ctr, "Hello world 3")
     time.Sleep(500 * time.Millisecond)
     ctr++
   }
